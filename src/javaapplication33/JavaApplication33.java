@@ -12,7 +12,7 @@ package javaapplication33;
 public class JavaApplication33 {
 
     public String genMsg() {
-        return "Hello";
+        return "Hi";
     }
 
     /**
